@@ -1,7 +1,7 @@
 # Historical Weather Dynamics for the Years 2006 to 2016
 Weather patterns shape daily life and decision-making across sectors like agriculture, transportation, and energy. This analysis explores seasonal trends, dominant climate conditions, and key environmental factors influencing weather behavior over the study period.
 
-<img width="1342" height="601" alt="Dashboard of Historical Weather Dynamics for the Years 2006 to 2016" src="https://github.com/user-attachments/assets/c734c96a-7312-4388-972d-adf05562d19c" />
+<img width="1342" height="602" alt="Dashboard of Historical Weather Dynamics for the Years 2006 to 2016" src="https://github.com/user-attachments/assets/a92e95a1-9358-4ed9-89bb-2f2f28c62756" />
 
 ### Introduction
 This project analyzes historical weather data from 2006 to 2016 to uncover trends and patterns in daily and seasonal weather conditions. The aim is to understand how key climate variables such as temperature, humidity, precipitation, wind behavior, visibility, and atmospheric pressure change over time and interact with one another. The analysis supports informed decision-making in environmental studies, urban planning, and climate awareness by highlighting long-term weather dynamics and variability.
